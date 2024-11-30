@@ -9,11 +9,11 @@ function App() {
   ];
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-blue-500 to-purple-600 text-white px-4">
+    <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-blue-500 to-purple-600 text-white px-96 size-full">
       <div className="w-full max-w-md bg-white rounded-lg shadow-lg p-6 text-gray-800">
         <div className="text-center mb-6">
           <img
-            src="https://via.placeholder.com/120"
+            src="https://loremflickr.com/640/480/animals"
             alt="profile"
             className="rounded-full mx-auto w-24 h-24"
           />
