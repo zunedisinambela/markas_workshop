@@ -17,7 +17,7 @@ function App() {
             alt="profile"
             className="rounded-full mx-auto w-24 h-24"
           />
-          <h1 className="text-2xl font-bold mt-4">Your Name</h1>
+          <h1 className="text-2xl font-bold mt-4">Zunedi</h1>
           <p className="text-gray-500">Your Tagline</p>
         </div>
         <div>
